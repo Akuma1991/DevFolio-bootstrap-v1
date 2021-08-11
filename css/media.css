@@ -1,0 +1,30 @@
+/* media query start */
+@media screen and (min-width : 768px) and (max-width:992px) {
+    .about-img img{
+        width: 100%;
+    }
+   } 
+@media screen and (min-width:1200px) {
+    .carousel-text p{
+        width: 700px;
+      margin: auto;
+   }
+   }
+@media screen and (max-width:1199.9px) {
+    .carousel-text p{
+        width: 650px;
+      margin: auto;
+   }
+   }
+@media screen and (max-width:992px) {
+    .carousel-text p{
+        width: 550px;
+      margin: auto;
+   }
+   .header .navbar .nav-link:hover::after{
+    width: 0%;
+       
+   }
+
+   }
+   /* media query end */
