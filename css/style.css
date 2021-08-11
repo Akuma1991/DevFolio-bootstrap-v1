@@ -63,7 +63,7 @@ z-index: 5000 !important;
 .modal-dialog{
     max-width:none !important;
     height: 100vh !important;
-    background: rgba(78, 78, 78, 0.9) !important;
+    /* background: rgba(78, 78, 78, 0.9) !important; */
 }
 .modal-body{
     height: 85vh !important;
